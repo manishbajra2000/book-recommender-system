@@ -1,6 +1,6 @@
 # 📚 Book Recommender System
 
-A machine learning powered web application that recommends books based on user preferences using **similarity** and **collaborative filtering** techniques.
+A **book recommendation system** built with Python and Streamlit. The app suggests books similar to a selected title using **similarity** and **collaborative filtering** techniques. Book covers and metadata are fetched dynamically from the dataset for an interactive browsing experience.
 
 🔗 **Live Demo:**  
 https://book-recommender-system-manish.streamlit.app/
